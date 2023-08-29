@@ -1,0 +1,9 @@
+body {
+    background-color: aquamarine;
+}
+
+.mangoo {
+    content: '';
+    justify-content: center;
+    position: relative;
+}
