@@ -1,2 +1,2 @@
 # NewHorizonLatestTech
-Newr-Horizon-Latest-Tech
+New-Horizon-Latest-Tech-Django-App/Web
